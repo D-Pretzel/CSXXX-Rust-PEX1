@@ -1,0 +1,10 @@
+[package]
+name = "CSXXX-Rust-PEX1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "CSXXX-Rust-PEX1"
+path = "main.rs"
